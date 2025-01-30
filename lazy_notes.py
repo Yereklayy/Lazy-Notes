@@ -1,8 +1,6 @@
 import datetime
 import os
 
-# Works well in the Visual Studio Code terminal
-
 NOTES_FILE = "notes.txt"
 
 def add_note():
